@@ -1,4 +1,4 @@
-# nse
+# Nostalgic Spawn Eggs
 
 Minecraft 1.21.5 or later support
 Revert new spawn egg styles in 1.21.5 and later.
